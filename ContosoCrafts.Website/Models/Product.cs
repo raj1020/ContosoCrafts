@@ -5,7 +5,7 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace ContosoCrafts.Website.Models
+namespace ContosoCrafts.WebSite.Models
 {
     public class Product
     {
